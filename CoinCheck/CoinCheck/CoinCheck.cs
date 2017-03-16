@@ -35,7 +35,7 @@ namespace CoinCheck
             _secretKey = secretKey;
         }
 
-        public IRestResponse Request(Method method, string path, string param)
+        public IRestResponse Request(Method method, string path, string param= "")
         {
             var url = BaseUri + path;
             var nonce = GetNonce;
