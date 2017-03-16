@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using RestSharp;
 using System.Security.Cryptography;
 using System.Text;
-using Newtonsoft.Json;
 
 namespace CoinCheck
 {
@@ -15,24 +13,46 @@ namespace CoinCheck
 
         private const string BaseUri = "https://coincheck.jp/";
 
-        public static void Main(string[] args)
-        {
-            var client = new CoinCheck("sXK0PCCFSjpSpu9c", "FRYnWH4eop5aFb7_E75cWyEarhwdWPhS");
-            var udemy = new Dictionary<string, string>();
-            udemy.Add("bank_name", "gggggg");
-            udemy.Add("branch_name", "tanaka");
-            udemy.Add("bank_account_type", "futsu");
-            udemy.Add("number", "1234567");
-            udemy.Add("name", "kakaka");
-            var bankAccount = JsonConvert.SerializeObject(udemy);
-            client.Request(Method.POST, "api/bank_accounts", bankAccount);
+        public  Account Account { get; set; }
 
-        }
+        public BankAccount BankAccount { get; set; }
+
+        public Borrow Borrow { get; set; }
+
+        public Deposit Deposit { get; set; }
+
+        public Leverage Leverage { get; set; }
+
+        public Order Order { get; set; }
+
+        public OrderBook OrderBook { get; set; }
+
+        public Send Send { get; set; }
+
+        public Ticker Ticker { get; set; }
+
+        public Trade Trade { get; set; }
+
+        public Transfer Transfer { get; set; }
+
+        public Withdraw Withdraw { get; set; }
 
         public CoinCheck(string accessKey, string secretKey)
         {
             _accessKey = accessKey;
             _secretKey = secretKey;
+             Account = new Account(this);
+            BankAccount = new BankAccount(this);
+            Borrow = new Borrow(this);
+            Deposit = new Deposit(this);
+            Leverage = new Leverage(this);
+            Order = new Order(this);
+            OrderBook = new OrderBook(this);
+            Send = new Send(this);
+            Ticker = new Ticker(this);
+            Trade = new Trade(this);
+            Transfer = new Transfer(this);
+            Withdraw = new Withdraw(this);
         }
 
         public IRestResponse Request(Method method, string path, string param= "")

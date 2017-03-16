@@ -21,9 +21,9 @@ namespace CoinCheck
         }
 
         /** You Get Send history  **/
-        public IRestResponse All(string id)
+        public IRestResponse All(Dictionary<string,string> myDictionary = null)
         {
-            return _client.Request(Method.GET, "api/send_money" + id);
+            return _client.Request(Method.GET, "api/send_money");
         }
     }
 }

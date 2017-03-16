@@ -16,17 +16,58 @@
         <entry file="file://$PROJECT_DIR$/CoinCheck/CoinCheck.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding>
-                <marker date="1489647843158" expanded="true" signature="6:142" ph="..." />
-                <marker date="1489647843158" expanded="true" signature="163:2720" ph="{...}" />
-                <marker date="1489647843158" expanded="true" signature="194:2718" ph="{...}" />
-                <marker date="1489647843158" expanded="true" signature="402:950" ph="{...}" />
-                <marker date="1489647843158" expanded="true" signature="1012:1104" ph="{...}" />
-                <marker date="1489647843158" expanded="true" signature="1188:2055" ph="{...}" />
-                <marker date="1489647843158" expanded="true" signature="2124:2355" ph="{...}" />
-                <marker date="1489647843158" expanded="true" signature="2150:2345" ph="{...}" />
-                <marker date="1489647843158" expanded="true" signature="2466:2712" ph="{...}" />
+                <marker date="1489654395522" expanded="true" signature="6:85" ph="..." />
+                <marker date="1489654395522" expanded="true" signature="106:3113" ph="{...}" />
+                <marker date="1489654395522" expanded="true" signature="137:3111" ph="{...}" />
+                <marker date="1489654395522" expanded="true" signature="912:1497" ph="{...}" />
+                <marker date="1489654395522" expanded="true" signature="1581:2448" ph="{...}" />
+                <marker date="1489654395522" expanded="true" signature="2517:2748" ph="{...}" />
+                <marker date="1489654395522" expanded="true" signature="2543:2738" ph="{...}" />
+                <marker date="1489654395522" expanded="true" signature="2859:3105" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CoinCheck/Test.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-280">
+              <caret line="72" column="18" lean-forward="true" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+              <folding>
+                <marker date="1489656099812" expanded="true" signature="54:3593" ph="{...}" />
+                <marker date="1489656099812" expanded="true" signature="80:3591" ph="{...}" />
+                <marker date="1489656099812" expanded="true" signature="133:3585" ph="{...}" />
+                <marker date="1489656099812" expanded="true" signature="414:763" ph="/* 新規注文 ... */" />
+                <marker date="1489656099812" expanded="true" signature="839:1006" ph="{...}" />
+                <marker date="1489656099812" expanded="true" signature="1539:1658" ph="{...}" />
+                <marker date="1489656099812" expanded="true" signature="1881:1927" ph="{...}" />
+                <marker date="1489656099812" expanded="true" signature="2092:2315" ph="{...}" />
+                <marker date="1489656099812" expanded="true" signature="2543:2715" ph="{...}" />
+                <marker date="1489656099812" expanded="true" signature="2884:2972" ph="{...}" />
+                <marker date="1489656099812" expanded="true" signature="3124:3173" ph="{...}" />
+                <marker date="1489656099812" expanded="true" signature="3287:3374" ph="{...}" />
+                <marker date="1489656099812" expanded="true" signature="3486:3573" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Borrow.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoinCheck/Borrow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="34" />
+              <folding>
+                <marker date="1489655960757" expanded="true" signature="6:73" ph="..." />
+                <marker date="1489655960757" expanded="true" signature="94:990" ph="{...}" />
+                <marker date="1489655960757" expanded="true" signature="122:988" ph="{...}" />
+                <marker date="1489655960757" expanded="true" signature="213:263" ph="{...}" />
+                <marker date="1489655960757" expanded="true" signature="377:512" ph="{...}" />
+                <marker date="1489655960757" expanded="true" signature="589:688" ph="{...}" />
+                <marker date="1489655960757" expanded="true" signature="813:981" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -50,36 +91,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Account.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CoinCheck/Account.cs">
+      <file leaf-file-name="Deposit.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoinCheck/Deposit.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="272">
+              <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
               <folding>
-                <marker date="1489647934787" expanded="true" signature="37:749" ph="{...}" />
-                <marker date="1489647934787" expanded="true" signature="66:747" ph="{...}" />
-                <marker date="1489647934787" expanded="true" signature="159:209" ph="{...}" />
-                <marker date="1489647934787" expanded="true" signature="285:377" ph="{...}" />
-                <marker date="1489647934787" expanded="true" signature="470:571" ph="{...}" />
-                <marker date="1489647934787" expanded="true" signature="649:741" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Withdraw.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoinCheck/Withdraw.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1489650208348" expanded="true" signature="6:73" ph="..." />
-                <marker date="1489650208348" expanded="true" signature="94:868" ph="{...}" />
-                <marker date="1489650208348" expanded="true" signature="124:866" ph="{...}" />
-                <marker date="1489650208348" expanded="true" signature="217:267" ph="{...}" />
-                <marker date="1489650208348" expanded="true" signature="383:511" ph="{...}" />
-                <marker date="1489650208348" expanded="true" signature="584:669" ph="{...}" />
-                <marker date="1489650208348" expanded="true" signature="766:860" ph="{...}" />
+                <marker date="1489655591675" expanded="true" signature="6:73" ph="..." />
+                <marker date="1489655591675" expanded="true" signature="94:763" ph="{...}" />
+                <marker date="1489655591675" expanded="true" signature="123:761" ph="{...}" />
+                <marker date="1489655591675" expanded="true" signature="215:265" ph="{...}" />
+                <marker date="1489655591675" expanded="true" signature="379:545" ph="{...}" />
+                <marker date="1489655591675" expanded="true" signature="666:755" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -88,49 +111,15 @@
       <file leaf-file-name="Send.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoinCheck/Send.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="476">
+              <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding>
-                <marker date="1489650217805" expanded="true" signature="6:73" ph="..." />
-                <marker date="1489650217805" expanded="true" signature="94:710" ph="{...}" />
-                <marker date="1489650217805" expanded="true" signature="120:708" ph="{...}" />
-                <marker date="1489650217805" expanded="true" signature="210:260" ph="{...}" />
-                <marker date="1489650217805" expanded="true" signature="398:528" ph="{...}" />
-                <marker date="1489650217805" expanded="true" signature="611:702" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrderBook.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoinCheck/OrderBook.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1489650225434" expanded="true" signature="37:372" ph="{...}" />
-                <marker date="1489650225434" expanded="true" signature="68:370" ph="{...}" />
-                <marker date="1489650225434" expanded="true" signature="162:212" ph="{...}" />
-                <marker date="1489650225434" expanded="true" signature="277:364" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Order.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoinCheck/Order.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1489650233484" expanded="true" signature="6:73" ph="..." />
-                <marker date="1489650233484" expanded="true" signature="94:1217" ph="{...}" />
-                <marker date="1489650233484" expanded="true" signature="121:1215" ph="{...}" />
-                <marker date="1489650233484" expanded="true" signature="211:261" ph="{...}" />
-                <marker date="1489650233484" expanded="true" signature="440:575" ph="{...}" />
-                <marker date="1489650233484" expanded="true" signature="735:835" ph="{...}" />
-                <marker date="1489650233484" expanded="true" signature="922:1019" ph="{...}" />
-                <marker date="1489650233484" expanded="true" signature="1105:1209" ph="{...}" />
+                <marker date="1489655560670" expanded="true" signature="6:73" ph="..." />
+                <marker date="1489655560670" expanded="true" signature="94:741" ph="{...}" />
+                <marker date="1489655560670" expanded="true" signature="120:739" ph="{...}" />
+                <marker date="1489655560670" expanded="true" signature="210:260" ph="{...}" />
+                <marker date="1489655560670" expanded="true" signature="398:528" ph="{...}" />
+                <marker date="1489655560670" expanded="true" signature="647:733" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -139,49 +128,14 @@
       <file leaf-file-name="Leverage.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoinCheck/Leverage.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="16" column="84" lean-forward="false" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
               <folding>
-                <marker date="1489648701669" expanded="true" signature="6:73" ph="..." />
-                <marker date="1489648701669" expanded="true" signature="94:550" ph="{...}" />
-                <marker date="1489648701669" expanded="true" signature="124:548" ph="{...}" />
-                <marker date="1489648701669" expanded="true" signature="217:267" ph="{...}" />
-                <marker date="1489648701669" expanded="true" signature="394:542" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Deposit.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoinCheck/Deposit.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1489648627592" expanded="true" signature="6:73" ph="..." />
-                <marker date="1489648627592" expanded="true" signature="94:756" ph="{...}" />
-                <marker date="1489648627592" expanded="true" signature="123:754" ph="{...}" />
-                <marker date="1489648627592" expanded="true" signature="215:265" ph="{...}" />
-                <marker date="1489648627592" expanded="true" signature="379:545" ph="{...}" />
-                <marker date="1489648627592" expanded="true" signature="659:748" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Borrow.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoinCheck/Borrow.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1489648350336" expanded="true" signature="6:73" ph="..." />
-                <marker date="1489648350336" expanded="true" signature="94:991" ph="{...}" />
-                <marker date="1489648350336" expanded="true" signature="122:989" ph="{...}" />
-                <marker date="1489648350336" expanded="true" signature="213:263" ph="{...}" />
-                <marker date="1489648350336" expanded="true" signature="377:512" ph="{...}" />
-                <marker date="1489648350336" expanded="true" signature="589:688" ph="{...}" />
-                <marker date="1489648350336" expanded="true" signature="814:982" ph="{...}" />
+                <marker date="1489655404009" expanded="true" signature="6:73" ph="..." />
+                <marker date="1489655404009" expanded="true" signature="94:557" ph="{...}" />
+                <marker date="1489655404009" expanded="true" signature="124:555" ph="{...}" />
+                <marker date="1489655404009" expanded="true" signature="217:267" ph="{...}" />
+                <marker date="1489655404009" expanded="true" signature="401:549" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -195,19 +149,20 @@
         <option value="$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/85AB3664-E4CA-41A0-86E3-96342ED95AAA/d1/b7d5069d/String.cs" />
         <option value="$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/607E95F7-8559-4986-90F9-68784B884761/47/9123f392/JsonConvert.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Program.cs" />
-        <option value="$PROJECT_DIR$/CoinCheck/CoinCheck.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/BankAccount.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Account.cs" />
-        <option value="$PROJECT_DIR$/CoinCheck/Borrow.cs" />
-        <option value="$PROJECT_DIR$/CoinCheck/Deposit.cs" />
-        <option value="$PROJECT_DIR$/CoinCheck/Leverage.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Trade.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Ticker.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Transfer.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Withdraw.cs" />
-        <option value="$PROJECT_DIR$/CoinCheck/Send.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/OrderBook.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Order.cs" />
+        <option value="$PROJECT_DIR$/CoinCheck/CoinCheck.cs" />
+        <option value="$PROJECT_DIR$/CoinCheck/Leverage.cs" />
+        <option value="$PROJECT_DIR$/CoinCheck/Send.cs" />
+        <option value="$PROJECT_DIR$/CoinCheck/Deposit.cs" />
+        <option value="$PROJECT_DIR$/CoinCheck/Borrow.cs" />
+        <option value="$PROJECT_DIR$/CoinCheck/Test.cs" />
       </list>
     </option>
   </component>
@@ -332,12 +287,12 @@
       <workItem from="1489482431602" duration="13000" />
       <workItem from="1489482560203" duration="166000" />
       <workItem from="1489573390005" duration="1267000" />
-      <workItem from="1489626138975" duration="8143000" />
+      <workItem from="1489626138975" duration="12230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26769000" />
+    <option name="totallyTimeSpent" value="30856000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -349,7 +304,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -358,7 +313,7 @@
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29787233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29787233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928064" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -391,15 +346,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489647843158" expanded="true" signature="6:142" ph="..." />
-            <marker date="1489647843158" expanded="true" signature="163:2720" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="194:2718" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="402:950" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1012:1104" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1188:2055" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2124:2355" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2150:2345" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2466:2712" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="6:85" ph="..." />
+            <marker date="1489654395522" expanded="true" signature="106:3113" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="137:3111" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="912:1497" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="1581:2448" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2517:2748" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2543:2738" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2859:3105" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -417,15 +371,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489647843158" expanded="true" signature="6:142" ph="..." />
-            <marker date="1489647843158" expanded="true" signature="163:2720" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="194:2718" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="402:950" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1012:1104" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1188:2055" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2124:2355" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2150:2345" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2466:2712" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="6:85" ph="..." />
+            <marker date="1489654395522" expanded="true" signature="106:3113" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="137:3111" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="912:1497" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="1581:2448" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2517:2748" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2543:2738" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2859:3105" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -435,40 +388,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489647843158" expanded="true" signature="6:142" ph="..." />
-            <marker date="1489647843158" expanded="true" signature="163:2720" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="194:2718" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="402:950" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1012:1104" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1188:2055" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2124:2355" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2150:2345" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2466:2712" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/607E95F7-8559-4986-90F9-68784B884761/47/9123f392/JsonConvert.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7701">
-          <caret line="453" column="25" lean-forward="false" selection-start-line="453" selection-start-column="25" selection-end-line="453" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoinCheck/CoinCheck.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1489647843158" expanded="true" signature="6:142" ph="..." />
-            <marker date="1489647843158" expanded="true" signature="163:2720" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="194:2718" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="402:950" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1012:1104" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1188:2055" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2124:2355" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2150:2345" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2466:2712" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="6:85" ph="..." />
+            <marker date="1489654395522" expanded="true" signature="106:3113" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="137:3111" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="912:1497" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="1581:2448" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2517:2748" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2543:2738" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2859:3105" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -485,15 +412,38 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489647843158" expanded="true" signature="6:142" ph="..." />
-            <marker date="1489647843158" expanded="true" signature="163:2720" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="194:2718" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="402:950" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1012:1104" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1188:2055" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2124:2355" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2150:2345" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2466:2712" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="6:85" ph="..." />
+            <marker date="1489654395522" expanded="true" signature="106:3113" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="137:3111" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="912:1497" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="1581:2448" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2517:2748" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2543:2738" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2859:3105" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/607E95F7-8559-4986-90F9-68784B884761/47/9123f392/JsonConvert.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7701">
+          <caret line="453" column="25" lean-forward="false" selection-start-line="453" selection-start-column="25" selection-end-line="453" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoinCheck/CoinCheck.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1489654395522" expanded="true" signature="6:85" ph="..." />
+            <marker date="1489654395522" expanded="true" signature="106:3113" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="137:3111" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="912:1497" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="1581:2448" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2517:2748" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2543:2738" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2859:3105" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -503,15 +453,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489647843158" expanded="true" signature="6:142" ph="..." />
-            <marker date="1489647843158" expanded="true" signature="163:2720" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="194:2718" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="402:950" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1012:1104" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1188:2055" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2124:2355" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2150:2345" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2466:2712" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="6:85" ph="..." />
+            <marker date="1489654395522" expanded="true" signature="106:3113" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="137:3111" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="912:1497" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="1581:2448" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2517:2748" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2543:2738" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2859:3105" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -521,15 +470,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489647843158" expanded="true" signature="6:142" ph="..." />
-            <marker date="1489647843158" expanded="true" signature="163:2720" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="194:2718" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="402:950" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1012:1104" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1188:2055" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2124:2355" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2150:2345" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2466:2712" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="6:85" ph="..." />
+            <marker date="1489654395522" expanded="true" signature="106:3113" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="137:3111" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="912:1497" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="1581:2448" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2517:2748" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2543:2738" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2859:3105" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -539,15 +487,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489647843158" expanded="true" signature="6:142" ph="..." />
-            <marker date="1489647843158" expanded="true" signature="163:2720" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="194:2718" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="402:950" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1012:1104" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1188:2055" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2124:2355" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2150:2345" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2466:2712" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="6:85" ph="..." />
+            <marker date="1489654395522" expanded="true" signature="106:3113" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="137:3111" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="912:1497" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="1581:2448" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2517:2748" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2543:2738" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2859:3105" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -557,15 +504,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489647843158" expanded="true" signature="6:142" ph="..." />
-            <marker date="1489647843158" expanded="true" signature="163:2720" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="194:2718" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="402:950" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1012:1104" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1188:2055" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2124:2355" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2150:2345" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2466:2712" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="6:85" ph="..." />
+            <marker date="1489654395522" expanded="true" signature="106:3113" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="137:3111" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="912:1497" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="1581:2448" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2517:2748" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2543:2738" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2859:3105" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -632,21 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoinCheck/Transfer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
-          <folding>
-            <marker date="1489650090867" expanded="true" signature="6:142" ph="..." />
-            <marker date="1489650090867" expanded="true" signature="163:904" ph="{...}" />
-            <marker date="1489650090867" expanded="true" signature="193:902" ph="{...}" />
-            <marker date="1489650090867" expanded="true" signature="286:336" ph="{...}" />
-            <marker date="1489650090867" expanded="true" signature="463:613" ph="{...}" />
-            <marker date="1489650090867" expanded="true" signature="744:896" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CoinCheck/Withdraw.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -659,21 +590,6 @@
             <marker date="1489650208348" expanded="true" signature="383:511" ph="{...}" />
             <marker date="1489650208348" expanded="true" signature="584:669" ph="{...}" />
             <marker date="1489650208348" expanded="true" signature="766:860" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoinCheck/Send.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <marker date="1489650217805" expanded="true" signature="6:73" ph="..." />
-            <marker date="1489650217805" expanded="true" signature="94:710" ph="{...}" />
-            <marker date="1489650217805" expanded="true" signature="120:708" ph="{...}" />
-            <marker date="1489650217805" expanded="true" signature="210:260" ph="{...}" />
-            <marker date="1489650217805" expanded="true" signature="398:528" ph="{...}" />
-            <marker date="1489650217805" expanded="true" signature="611:702" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -708,65 +624,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CoinCheck/Account.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <marker date="1489647934787" expanded="true" signature="37:749" ph="{...}" />
+            <marker date="1489647934787" expanded="true" signature="66:747" ph="{...}" />
+            <marker date="1489647934787" expanded="true" signature="159:209" ph="{...}" />
+            <marker date="1489647934787" expanded="true" signature="285:377" ph="{...}" />
+            <marker date="1489647934787" expanded="true" signature="470:571" ph="{...}" />
+            <marker date="1489647934787" expanded="true" signature="649:741" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CoinCheck/Leverage.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="16" column="84" lean-forward="false" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
           <folding>
-            <marker date="1489648701669" expanded="true" signature="6:73" ph="..." />
-            <marker date="1489648701669" expanded="true" signature="94:550" ph="{...}" />
-            <marker date="1489648701669" expanded="true" signature="124:548" ph="{...}" />
-            <marker date="1489648701669" expanded="true" signature="217:267" ph="{...}" />
-            <marker date="1489648701669" expanded="true" signature="394:542" ph="{...}" />
+            <marker date="1489655404009" expanded="true" signature="6:73" ph="..." />
+            <marker date="1489655404009" expanded="true" signature="94:557" ph="{...}" />
+            <marker date="1489655404009" expanded="true" signature="124:555" ph="{...}" />
+            <marker date="1489655404009" expanded="true" signature="217:267" ph="{...}" />
+            <marker date="1489655404009" expanded="true" signature="401:549" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoinCheck/Send.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <marker date="1489655560670" expanded="true" signature="6:73" ph="..." />
+            <marker date="1489655560670" expanded="true" signature="94:741" ph="{...}" />
+            <marker date="1489655560670" expanded="true" signature="120:739" ph="{...}" />
+            <marker date="1489655560670" expanded="true" signature="210:260" ph="{...}" />
+            <marker date="1489655560670" expanded="true" signature="398:528" ph="{...}" />
+            <marker date="1489655560670" expanded="true" signature="647:733" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CoinCheck/Deposit.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
           <folding>
-            <marker date="1489648627592" expanded="true" signature="6:73" ph="..." />
-            <marker date="1489648627592" expanded="true" signature="94:756" ph="{...}" />
-            <marker date="1489648627592" expanded="true" signature="123:754" ph="{...}" />
-            <marker date="1489648627592" expanded="true" signature="215:265" ph="{...}" />
-            <marker date="1489648627592" expanded="true" signature="379:545" ph="{...}" />
-            <marker date="1489648627592" expanded="true" signature="659:748" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoinCheck/Borrow.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1489648350336" expanded="true" signature="6:73" ph="..." />
-            <marker date="1489648350336" expanded="true" signature="94:991" ph="{...}" />
-            <marker date="1489648350336" expanded="true" signature="122:989" ph="{...}" />
-            <marker date="1489648350336" expanded="true" signature="213:263" ph="{...}" />
-            <marker date="1489648350336" expanded="true" signature="377:512" ph="{...}" />
-            <marker date="1489648350336" expanded="true" signature="589:688" ph="{...}" />
-            <marker date="1489648350336" expanded="true" signature="814:982" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoinCheck/CoinCheck.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1489647843158" expanded="true" signature="6:142" ph="..." />
-            <marker date="1489647843158" expanded="true" signature="163:2720" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="194:2718" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="402:950" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1012:1104" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="1188:2055" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2124:2355" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2150:2345" ph="{...}" />
-            <marker date="1489647843158" expanded="true" signature="2466:2712" ph="{...}" />
+            <marker date="1489655591675" expanded="true" signature="6:73" ph="..." />
+            <marker date="1489655591675" expanded="true" signature="94:763" ph="{...}" />
+            <marker date="1489655591675" expanded="true" signature="123:761" ph="{...}" />
+            <marker date="1489655591675" expanded="true" signature="215:265" ph="{...}" />
+            <marker date="1489655591675" expanded="true" signature="379:545" ph="{...}" />
+            <marker date="1489655591675" expanded="true" signature="666:755" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -787,17 +699,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoinCheck/Account.cs">
+    <entry file="file://$PROJECT_DIR$/CoinCheck/CoinCheck.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding>
-            <marker date="1489647934787" expanded="true" signature="37:749" ph="{...}" />
-            <marker date="1489647934787" expanded="true" signature="66:747" ph="{...}" />
-            <marker date="1489647934787" expanded="true" signature="159:209" ph="{...}" />
-            <marker date="1489647934787" expanded="true" signature="285:377" ph="{...}" />
-            <marker date="1489647934787" expanded="true" signature="470:571" ph="{...}" />
-            <marker date="1489647934787" expanded="true" signature="649:741" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="6:85" ph="..." />
+            <marker date="1489654395522" expanded="true" signature="106:3113" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="137:3111" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="912:1497" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="1581:2448" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2517:2748" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2543:2738" ph="{...}" />
+            <marker date="1489654395522" expanded="true" signature="2859:3105" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoinCheck/Borrow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="34" />
+          <folding>
+            <marker date="1489655960757" expanded="true" signature="6:73" ph="..." />
+            <marker date="1489655960757" expanded="true" signature="94:990" ph="{...}" />
+            <marker date="1489655960757" expanded="true" signature="122:988" ph="{...}" />
+            <marker date="1489655960757" expanded="true" signature="213:263" ph="{...}" />
+            <marker date="1489655960757" expanded="true" signature="377:512" ph="{...}" />
+            <marker date="1489655960757" expanded="true" signature="589:688" ph="{...}" />
+            <marker date="1489655960757" expanded="true" signature="813:981" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoinCheck/Transfer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <marker date="1489650090867" expanded="true" signature="6:142" ph="..." />
+            <marker date="1489650090867" expanded="true" signature="163:904" ph="{...}" />
+            <marker date="1489650090867" expanded="true" signature="193:902" ph="{...}" />
+            <marker date="1489650090867" expanded="true" signature="286:336" ph="{...}" />
+            <marker date="1489650090867" expanded="true" signature="463:613" ph="{...}" />
+            <marker date="1489650090867" expanded="true" signature="744:896" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoinCheck/Test.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="72" column="18" lean-forward="true" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+          <folding>
+            <marker date="1489656099812" expanded="true" signature="54:3593" ph="{...}" />
+            <marker date="1489656099812" expanded="true" signature="80:3591" ph="{...}" />
+            <marker date="1489656099812" expanded="true" signature="133:3585" ph="{...}" />
+            <marker date="1489656099812" expanded="true" signature="414:763" ph="/* 新規注文 ... */" />
+            <marker date="1489656099812" expanded="true" signature="839:1006" ph="{...}" />
+            <marker date="1489656099812" expanded="true" signature="1539:1658" ph="{...}" />
+            <marker date="1489656099812" expanded="true" signature="1881:1927" ph="{...}" />
+            <marker date="1489656099812" expanded="true" signature="2092:2315" ph="{...}" />
+            <marker date="1489656099812" expanded="true" signature="2543:2715" ph="{...}" />
+            <marker date="1489656099812" expanded="true" signature="2884:2972" ph="{...}" />
+            <marker date="1489656099812" expanded="true" signature="3124:3173" ph="{...}" />
+            <marker date="1489656099812" expanded="true" signature="3287:3374" ph="{...}" />
+            <marker date="1489656099812" expanded="true" signature="3486:3573" ph="{...}" />
           </folding>
         </state>
       </provider>

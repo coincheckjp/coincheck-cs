@@ -26,7 +26,7 @@ namespace CoinCheck
         }
 
         /** Based on this id, you can repay. **/
-        public IRestResponse Delete(Dictionary<string,string> myDictionary)
+        public IRestResponse Repay(Dictionary<string,string> myDictionary)
         {
             return _client.Request(Method.POST, "api/lending/borrows/" + myDictionary["id"] + "/repay", JsonConvert.SerializeObject(myDictionary));
         }

@@ -20,7 +20,7 @@ namespace CoinCheck
         }
 
         /** You Get Deposit history **/
-        public IRestResponse All(Dictionary<string,string> myDictionary)
+        public IRestResponse All(Dictionary<string,string> myDictionary = null)
         {
             return _client.Request(Method.GET, "api/deposit_money");
         }
