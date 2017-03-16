@@ -75,13 +75,13 @@ namespace CoinCheck
             //出金申請の作成
             client.Withdraw.Create(new Dictionary<string, string>
             {
-                {"bank_account_id", "2222"},
-                {"amount", "50000"},
+                {"bank_account_id", "1234567"},
+                {"amount", "1000"},
                 {"currency", "JPY"},
                 {"is_fast", "false"},
             });
             //出金申請のキャンセル
-            client.Withdraw.Cancel("111111");
+            client.Withdraw.Cancel("111");
             //借入申請
             client.Borrow.Create(new Dictionary<string, string>
             {

@@ -16,7 +16,7 @@ namespace CoinCheck
         /** Get a leverage positions list. **/
         public IRestResponse Positions(Dictionary<string,string> myDictionary = null)
         {
-            return _client.Request(Method.POST, "api/exchange/leverage/positions" , JsonConvert.SerializeObject(myDictionary));
+            return _client.Request(Method.GET, "api/exchange/leverage/positions");
         }
     }
 }

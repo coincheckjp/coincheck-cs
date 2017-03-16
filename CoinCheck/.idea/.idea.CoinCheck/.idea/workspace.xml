@@ -34,22 +34,40 @@
       <file leaf-file-name="Test.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CoinCheck/Test.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-280">
-              <caret line="72" column="18" lean-forward="true" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+            <state relative-caret-position="360">
+              <caret line="81" column="15" lean-forward="true" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
               <folding>
-                <marker date="1489656099812" expanded="true" signature="54:3593" ph="{...}" />
-                <marker date="1489656099812" expanded="true" signature="80:3591" ph="{...}" />
-                <marker date="1489656099812" expanded="true" signature="133:3585" ph="{...}" />
-                <marker date="1489656099812" expanded="true" signature="414:763" ph="/* 新規注文 ... */" />
-                <marker date="1489656099812" expanded="true" signature="839:1006" ph="{...}" />
-                <marker date="1489656099812" expanded="true" signature="1539:1658" ph="{...}" />
-                <marker date="1489656099812" expanded="true" signature="1881:1927" ph="{...}" />
-                <marker date="1489656099812" expanded="true" signature="2092:2315" ph="{...}" />
-                <marker date="1489656099812" expanded="true" signature="2543:2715" ph="{...}" />
-                <marker date="1489656099812" expanded="true" signature="2884:2972" ph="{...}" />
-                <marker date="1489656099812" expanded="true" signature="3124:3173" ph="{...}" />
-                <marker date="1489656099812" expanded="true" signature="3287:3374" ph="{...}" />
-                <marker date="1489656099812" expanded="true" signature="3486:3573" ph="{...}" />
+                <marker date="1489658504334" expanded="true" signature="54:3592" ph="{...}" />
+                <marker date="1489658504334" expanded="true" signature="80:3590" ph="{...}" />
+                <marker date="1489658504334" expanded="true" signature="133:3584" ph="{...}" />
+                <marker date="1489658504334" expanded="true" signature="414:763" ph="/* 新規注文 ... */" />
+                <marker date="1489658504334" expanded="true" signature="839:1006" ph="{...}" />
+                <marker date="1489658504334" expanded="true" signature="1539:1658" ph="{...}" />
+                <marker date="1489658504334" expanded="true" signature="1881:1927" ph="{...}" />
+                <marker date="1489658504334" expanded="true" signature="2092:2315" ph="{...}" />
+                <marker date="1489658504334" expanded="true" signature="2543:2717" ph="{...}" />
+                <marker date="1489658504334" expanded="true" signature="2883:2971" ph="{...}" />
+                <marker date="1489658504334" expanded="true" signature="3123:3172" ph="{...}" />
+                <marker date="1489658504334" expanded="true" signature="3286:3373" ph="{...}" />
+                <marker date="1489658504334" expanded="true" signature="3485:3572" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Withdraw.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoinCheck/Withdraw.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="19" column="62" lean-forward="false" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+              <folding>
+                <marker date="1489658560374" expanded="true" signature="6:87" ph="..." />
+                <marker date="1489658560374" expanded="true" signature="108:883" ph="{...}" />
+                <marker date="1489658560374" expanded="true" signature="138:881" ph="{...}" />
+                <marker date="1489658560374" expanded="true" signature="231:281" ph="{...}" />
+                <marker date="1489658560374" expanded="true" signature="397:526" ph="{...}" />
+                <marker date="1489658560374" expanded="true" signature="599:684" ph="{...}" />
+                <marker date="1489658560374" expanded="true" signature="781:875" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -128,14 +146,14 @@
       <file leaf-file-name="Leverage.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoinCheck/Leverage.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="84" lean-forward="false" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
+            <state relative-caret-position="324">
+              <caret line="18" column="80" lean-forward="false" selection-start-line="18" selection-start-column="80" selection-end-line="18" selection-end-column="80" />
               <folding>
-                <marker date="1489655404009" expanded="true" signature="6:73" ph="..." />
-                <marker date="1489655404009" expanded="true" signature="94:557" ph="{...}" />
-                <marker date="1489655404009" expanded="true" signature="124:555" ph="{...}" />
-                <marker date="1489655404009" expanded="true" signature="217:267" ph="{...}" />
-                <marker date="1489655404009" expanded="true" signature="401:549" ph="{...}" />
+                <marker date="1489657397355" expanded="true" signature="6:73" ph="..." />
+                <marker date="1489657397355" expanded="true" signature="94:512" ph="{...}" />
+                <marker date="1489657397355" expanded="true" signature="124:510" ph="{...}" />
+                <marker date="1489657397355" expanded="true" signature="217:267" ph="{...}" />
+                <marker date="1489657397355" expanded="true" signature="401:504" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -154,15 +172,15 @@
         <option value="$PROJECT_DIR$/CoinCheck/Trade.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Ticker.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Transfer.cs" />
-        <option value="$PROJECT_DIR$/CoinCheck/Withdraw.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/OrderBook.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Order.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/CoinCheck.cs" />
-        <option value="$PROJECT_DIR$/CoinCheck/Leverage.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Send.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Deposit.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Borrow.cs" />
+        <option value="$PROJECT_DIR$/CoinCheck/Leverage.cs" />
         <option value="$PROJECT_DIR$/CoinCheck/Test.cs" />
+        <option value="$PROJECT_DIR$/CoinCheck/Withdraw.cs" />
       </list>
     </option>
   </component>
@@ -287,12 +305,12 @@
       <workItem from="1489482431602" duration="13000" />
       <workItem from="1489482560203" duration="166000" />
       <workItem from="1489573390005" duration="1267000" />
-      <workItem from="1489626138975" duration="12230000" />
+      <workItem from="1489626138975" duration="14906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30856000" />
+    <option name="totallyTimeSpent" value="33532000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,7 +331,7 @@
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29787233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29787233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928064" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -578,22 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoinCheck/Withdraw.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1489650208348" expanded="true" signature="6:73" ph="..." />
-            <marker date="1489650208348" expanded="true" signature="94:868" ph="{...}" />
-            <marker date="1489650208348" expanded="true" signature="124:866" ph="{...}" />
-            <marker date="1489650208348" expanded="true" signature="217:267" ph="{...}" />
-            <marker date="1489650208348" expanded="true" signature="383:511" ph="{...}" />
-            <marker date="1489650208348" expanded="true" signature="584:669" ph="{...}" />
-            <marker date="1489650208348" expanded="true" signature="766:860" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CoinCheck/OrderBook.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -635,20 +637,6 @@
             <marker date="1489647934787" expanded="true" signature="285:377" ph="{...}" />
             <marker date="1489647934787" expanded="true" signature="470:571" ph="{...}" />
             <marker date="1489647934787" expanded="true" signature="649:741" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoinCheck/Leverage.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="84" lean-forward="false" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
-          <folding>
-            <marker date="1489655404009" expanded="true" signature="6:73" ph="..." />
-            <marker date="1489655404009" expanded="true" signature="94:557" ph="{...}" />
-            <marker date="1489655404009" expanded="true" signature="124:555" ph="{...}" />
-            <marker date="1489655404009" expanded="true" signature="217:267" ph="{...}" />
-            <marker date="1489655404009" expanded="true" signature="401:549" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -747,24 +735,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CoinCheck/Leverage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="80" lean-forward="false" selection-start-line="18" selection-start-column="80" selection-end-line="18" selection-end-column="80" />
+          <folding>
+            <marker date="1489657397355" expanded="true" signature="6:73" ph="..." />
+            <marker date="1489657397355" expanded="true" signature="94:512" ph="{...}" />
+            <marker date="1489657397355" expanded="true" signature="124:510" ph="{...}" />
+            <marker date="1489657397355" expanded="true" signature="217:267" ph="{...}" />
+            <marker date="1489657397355" expanded="true" signature="401:504" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoinCheck/Withdraw.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="62" lean-forward="false" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+          <folding>
+            <marker date="1489658560374" expanded="true" signature="6:87" ph="..." />
+            <marker date="1489658560374" expanded="true" signature="108:883" ph="{...}" />
+            <marker date="1489658560374" expanded="true" signature="138:881" ph="{...}" />
+            <marker date="1489658560374" expanded="true" signature="231:281" ph="{...}" />
+            <marker date="1489658560374" expanded="true" signature="397:526" ph="{...}" />
+            <marker date="1489658560374" expanded="true" signature="599:684" ph="{...}" />
+            <marker date="1489658560374" expanded="true" signature="781:875" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CoinCheck/Test.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
-          <caret line="72" column="18" lean-forward="true" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+        <state relative-caret-position="360">
+          <caret line="81" column="15" lean-forward="true" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
           <folding>
-            <marker date="1489656099812" expanded="true" signature="54:3593" ph="{...}" />
-            <marker date="1489656099812" expanded="true" signature="80:3591" ph="{...}" />
-            <marker date="1489656099812" expanded="true" signature="133:3585" ph="{...}" />
-            <marker date="1489656099812" expanded="true" signature="414:763" ph="/* 新規注文 ... */" />
-            <marker date="1489656099812" expanded="true" signature="839:1006" ph="{...}" />
-            <marker date="1489656099812" expanded="true" signature="1539:1658" ph="{...}" />
-            <marker date="1489656099812" expanded="true" signature="1881:1927" ph="{...}" />
-            <marker date="1489656099812" expanded="true" signature="2092:2315" ph="{...}" />
-            <marker date="1489656099812" expanded="true" signature="2543:2715" ph="{...}" />
-            <marker date="1489656099812" expanded="true" signature="2884:2972" ph="{...}" />
-            <marker date="1489656099812" expanded="true" signature="3124:3173" ph="{...}" />
-            <marker date="1489656099812" expanded="true" signature="3287:3374" ph="{...}" />
-            <marker date="1489656099812" expanded="true" signature="3486:3573" ph="{...}" />
+            <marker date="1489658504334" expanded="true" signature="54:3592" ph="{...}" />
+            <marker date="1489658504334" expanded="true" signature="80:3590" ph="{...}" />
+            <marker date="1489658504334" expanded="true" signature="133:3584" ph="{...}" />
+            <marker date="1489658504334" expanded="true" signature="414:763" ph="/* 新規注文 ... */" />
+            <marker date="1489658504334" expanded="true" signature="839:1006" ph="{...}" />
+            <marker date="1489658504334" expanded="true" signature="1539:1658" ph="{...}" />
+            <marker date="1489658504334" expanded="true" signature="1881:1927" ph="{...}" />
+            <marker date="1489658504334" expanded="true" signature="2092:2315" ph="{...}" />
+            <marker date="1489658504334" expanded="true" signature="2543:2717" ph="{...}" />
+            <marker date="1489658504334" expanded="true" signature="2883:2971" ph="{...}" />
+            <marker date="1489658504334" expanded="true" signature="3123:3172" ph="{...}" />
+            <marker date="1489658504334" expanded="true" signature="3286:3373" ph="{...}" />
+            <marker date="1489658504334" expanded="true" signature="3485:3572" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using RestSharp;
 using Newtonsoft.Json;
 
@@ -16,7 +17,7 @@ namespace CoinCheck
         /** Create a new Withdraw. **/
         public IRestResponse Create(Dictionary<string,string> myDictionary)
         {
-            return _client.Request(Method.POST, "api/withdraw", JsonConvert.SerializeObject(myDictionary));
+            return _client.Request(Method.POST, "api/withdraws", JsonConvert.SerializeObject(myDictionary));
         }
 
         /** Get a withdraw list. **/
