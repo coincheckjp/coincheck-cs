@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using RestSharp;
 using System.Security.Cryptography;
 using System.Text;
@@ -69,7 +70,7 @@ namespace CoinCheck
             request.AddHeader("access-key", _accessKey);
             request.AddHeader("content-type", "application/json");
             request.AddParameter("application/json", param, ParameterType.RequestBody);
-            IRestResponse response = client.Execute(request);
+            var response = client.Execute(request);
             Console.WriteLine(response.Content);
 
             return response;
@@ -91,6 +92,23 @@ namespace CoinCheck
             var hmc = new HMACSHA256(Encoding.ASCII.GetBytes(password));
             var hmres = hmc.ComputeHash(Encoding.ASCII.GetBytes(challenge));
             return BitConverter.ToString(hmres).Replace("-", "").ToLower();
+        }
+
+        public string QueryString(Dictionary<string, string> myDictionary)
+        {
+            var query = "";
+            foreach (var param in myDictionary)
+            {
+                if (query != "")
+                {
+                    query += "&";
+                }
+                query += param.Key + "=" + param.Value;
+            }
+
+            query = "?" + query;
+
+            return query;
         }
     }
 }

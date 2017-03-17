@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using RestSharp;
 using Newtonsoft.Json;
 
@@ -22,7 +23,7 @@ namespace CoinCheck
         /** You Get Deposit history **/
         public IRestResponse All(Dictionary<string,string> myDictionary = null)
         {
-            return _client.Request(Method.GET, "api/deposit_money");
+            return _client.Request(Method.GET, "api/deposit_money" + _client.QueryString(myDictionary));
         }
     }
 }

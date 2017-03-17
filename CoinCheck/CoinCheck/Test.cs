@@ -49,9 +49,15 @@ namespace CoinCheck
                 {"amount", "0.0002"}
             });
             //ビットコインの送金履歴
-            client.Send.All();
+            client.Send.All(new Dictionary<string, string>
+            {
+                {"currency", "BTC"}
+            });
             //ビットコインの受け取り履歴
-            client.Deposit.All();
+            client.Deposit.All(new Dictionary<string, string>
+            {
+                {"currency", "BTC"}
+            });
             //ビットコインの高速入金
             client.Deposit.Fast(new Dictionary<string, string>
             {
